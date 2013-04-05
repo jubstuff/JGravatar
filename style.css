@@ -1,0 +1,22 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 5em;
+}
+
+form {
+    padding: 1em;
+    width: 100%;
+}
+
+input {
+    font-size: 3em;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+label {
+    display: none;
+}
